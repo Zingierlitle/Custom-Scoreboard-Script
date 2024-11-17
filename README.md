@@ -4,6 +4,7 @@ Working: (Display's Servers that works with this file)
 
 - Zeqa.net
 - Hesu.org
+- Antralia.net
 
 
 
